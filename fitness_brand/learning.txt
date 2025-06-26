@@ -1,0 +1,31 @@
+Mandatory learning
+
+**a. What was the most challenging part for you?**
+
+The most challenging part for me was designing the website layout. I knew how to write HTML and CSS, but I was confused about which section should come first, how much spacing is good, and how to make it look nice and modern. It was also hard to choose good colors and fonts that match well. Making the website look good on both desktop and mobile was a bit tricky for me.
+
+**b. How did you solve it?**
+
+I solved the problem by taking help from ChatGPT. I searched for color combinations, and how to properly make website responsive. I also read some articles and checked other websites for ideas. Slowly, I understood how to arrange the sections, add proper spacing, and make the layout clean. I tested it again and again on different screen sizes.
+
+
+**c. What did you learn during this task?**
+
+I learned that feedback is very important while working on design. For example, I placed the logo in the top-left corner, but it didn’t look correct at first. After checking again and getting feedback, I understood that some margins and padding were wrong. I fixed them by checking the CSS box model properly. This taught me that even small feedback can help me improve the design a lot.
+
+**d. If we ask you to improve it tomorrow, what would you add?**
+
+If I improve it tomorrow, I will add some small effects to make the website feel better and smoother. For example:
+
+-A shadow or animation when the contact form is submitted.
+-A “Back to Top” button after scrolling down, so users can go up easily.
+-A nice hover effect on pricing cards to show more details or make it look highlighted.
+
+**e. What is your goal for the next 3 months if selected?**
+
+My goal for the next 3 months is to improve my coding skills and become more confident.
+
+-Understanding problems early: I want to get better at finding and fixing layout or form issues before anyone points them out.
+-Writing better code: I want to write clean and correct code in the first try by learning from my mistakes and feedback.
+-Learning new tools: I will start learning modern frameworks like React, and also understand how to deploy websites easily.
+-Becoming a strong team member: I want to become more helpful, solve problems faster, and be ready for any frontend or full-stack work.
